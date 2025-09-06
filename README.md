@@ -5,18 +5,18 @@ This project demonstrates a simple speech-to-text system in Python using the spe
 
 🚀 Features
 
-Records audio from the system microphone.
+--> Records audio from the system microphone.
 
-Automatically adjusts for ambient noise before recording.
+--> Automatically adjusts for ambient noise before recording.
 
-Converts speech into text using Google’s Speech Recognition engine.
+--> Converts speech into text using Google’s Speech Recognition engine.
 
-Saves audio input to a .wav file if recognition fails.
+--> Saves audio input to a .wav file if recognition fails.
 
 🛠️ Tech Stack
 
-Python 3
+--> Python 3
 
-speech_recognition library
+--> speech_recognition library
 
-PyAudio (for microphone access)
+--> PyAudio (for microphone access)
